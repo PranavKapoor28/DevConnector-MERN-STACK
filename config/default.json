@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://PranavKapoor:Pktheboss28@cluster0.g5ncl.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"mySecretKey",
+    "githubClientId":"92897c99f2ac8c31eba7",
+    "githubSecret":"df4400f7a6bca8845ff41cd4c782c556d431dc84"
+}
